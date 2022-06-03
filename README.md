@@ -22,4 +22,3 @@ SFRF.py
 POTENTIAL ARTEFACTS OF HALO FINDER (Fig A2)
 artefacts.py
 
-
