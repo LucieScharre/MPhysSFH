@@ -1,24 +1,39 @@
 # MPhysSFH
 Scripts written for MPhys Project: The Effects of Feedback on the Cosmic Star Formation History in the Simba Simulations
 
+
+
 REDSHIFT EVOLUTION OF STAR FORMATION RATE DENSITY (Fig 2, 10, 11, A1)
+
 SFRD.py
 
+
 GALAXY STELLAR MASS FUNCTION (Fig 3)
+
 GSMF.py
 
+
 EVOLUTION OF NORMALISED STAR FORMATION RATE IN BINS OF DIFFERENT HALO MASS (Fig 4)
+
 nSFR_evolution.py
 
+
 SMHM RELATION AND RATIO (Fig 5,6,7)
+
 SMH.py
 
+
 sSFR-STELLAR MASS RELATION (Fig 8, A3-A6)
+
 SFR_MSTAR.py 
 
+
 STAR FORMATION RATE FUNCTION (Fig 9)
+
 SFRF.py
 
+
 POTENTIAL ARTEFACTS OF HALO FINDER (Fig A2)
+
 artefacts.py
 
